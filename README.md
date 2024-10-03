@@ -1,2 +1,2 @@
 Olá! Eu sou o Leandro Lucas 🖐️
-Apaixonado por tecnologia!
+Desenvolvedor Front-end apaixonado por tecnologia!
